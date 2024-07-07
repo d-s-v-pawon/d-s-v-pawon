@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SIVA VENKATA PAVAN DADISETTI
 - 👀 I’m interested in LEARNING NEW SKILLS IN SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning PYTHON(Data Engineering)
+- 🌱 I’m currently learning PYTHON,MYSQL,DSA,...
 - 💞️ I’m looking to get a decent job that's good for me
 - 📫 Reach me @ dsvpavan1813@gmail.com
 - 😄 Pronouns: pavan
